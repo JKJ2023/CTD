@@ -1,0 +1,1 @@
+This is an application that allows the user to view a variety of information about various characters, locations,etc.

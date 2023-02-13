@@ -1,0 +1,16 @@
+.body {
+    background-color: pink;
+}
+
+h1 {
+    color: red;
+}
+
+.span {
+    align-items: center;
+}
+
+button {
+    color: white;
+    background-color: red;
+}
